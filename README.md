@@ -1,1 +1,3 @@
 # My-Weather-App
+<br>
+The 'My Weather App' is a web-based project designed to provide real-time weather information across the globe. Offering comprehensive insights into various meteorological conditions, this application delivers accurate data on temperature, humidity, and wind speed. Users can effortlessly access a wide range of weather-related details, enabling them to stay informed about the atmospheric conditions in different locations. 'My Weather App' is dedicated to delivering a seamless and user-friendly experience, making it a valuable tool for individuals seeking precise and up-to-date weather information.
